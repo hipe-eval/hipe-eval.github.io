@@ -1,5 +1,5 @@
 #  HIPE: Identifying Historical People, Places and other Entities
-HIPE is a series of evaluation campaigns on named entity processing on historical newspapers in multiple languages.
+HIPE is a series of evaluation campaigns on named entity processing on historical documents in multiple languages.
 
 ## [CLEF HIPE 2020](https://impresso.github.io/CLEF-HIPE-2020/)
 In 2020, we organized a [first successful evaluation campaign](https://impresso.github.io/CLEF-HIPE-2020/) on named entity processing on historical newspapers in French, German and English. 
