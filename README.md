@@ -1,7 +1,9 @@
 #  HIPE: Identifying Historical People, Places and other Entities
 HIPE is a series of evaluation campaigns on named entity processing on historical documents in multiple languages.
 
-**[HIPE-OCRepair 2026](https://hipe-eval.github.io/HIPE-OCRepair-2026/)** is a shared task on OCR post-correction for multilingual historical documents. It benchmarks systems that transform noisy OCR output into corrected text, using standardized multilingual data, document metadata, and OCR quality indicators. The task focuses on robust and reproducible evaluation of post-correction methods, with particular attention to recent LLM-based approaches for cultural heritage collections.
+## [HIPE-OCRepair 2026](https://hipe-eval.github.io/HIPE-OCRepair-2026/)
+In 2026, HIPE introduces a shared task on OCR post-correction for multilingual historical documents, hosted in the context of [ICDAR 2026](https://icdar2026.org/). It benchmarks systems that transform noisy OCR output into corrected text, using standardized multilingual data, document metadata, and OCR quality indicators. The task focuses on robust and reproducible evaluation of post-correction methods, with particular attention to recent LLM-based approaches for cultural heritage collections.
+
 
 ## [CLEF HIPE 2026](https://hipe-eval.github.io/HIPE-2026)
 In 2026, HIPE shifts focus from named entity recognition to **relation extraction**, with an emphasis on identifying **person–place relations** in **multilingual historical newspapers**. Participants are asked to assess whether a person was ever at a given place (`at`) or present in the immediate context (`isAt`), based on textual evidence and temporal cues.
